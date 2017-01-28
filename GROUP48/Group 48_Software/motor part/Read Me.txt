@@ -1,0 +1,27 @@
+Instrustions :-
+for user-{
+1.login using valid ID-Password
+2.can Edit his details using edit details button in saluting pane
+2.1)here he cannot change his customer number and username , change his password, and details
+2.2)passswords should match before submission.
+3.enter Query in search box and select type or name check box and click search button.
+4.double click on the row of required item to add to cart.
+5.click on the item displayed on cart to edit it's quantity or delete it from cart.
+6.click on check out in cart panel to complete transaction and generate Bill.
+7.click on logout to Log out of the profile
+8.for new users click on new user registration button .enter details and click submit.
+
+}
+for administrator-{
+1.login using ID-Password
+2.can use edit details to edit his username , password and Name of the store
+3.automatically list of customers with last-access dates is displayed.
+3.1)double clicking on any user will delete him/her.
+4.and Daily transactions are also displayed on other tab of the pane.
+4.1)click check sales button to check monthly sales in the form of a ber graph.
+4.2)Click on Print Requirements to calculate and update threshold value and generate the form for next daay's order.
+4.3)Administrator can edit the inventory ,insert , update , delete items in the last panel of tabbed pane.
+
+}
+general:-
+software uses system's date so set it correctly before using this.
